@@ -37,7 +37,7 @@ const STORE = {
     { day: "Domingo", hours: "Cerrado" }
   ],
   // Cambia esto a false si de momento no quieres mostrar precios en ningún producto
-  showPrices: true
+  showPrices: false
 };
 
 // ------------------------------------------------------------
