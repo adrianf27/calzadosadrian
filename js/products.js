@@ -16,24 +16,24 @@
 // 1. DATOS GENERALES DE LA TIENDA
 // ------------------------------------------------------------
 const STORE = {
-  name: "[NOMBRE DE LA TIENDA]",
+  name: "CALZADOS ADRIAN",
   tagline: "Calzado con carácter, hecho para caminar tu día a día",
   shortAbout:
     "Somos una zapatería de barrio con toda la vida. Elegimos cada modelo " +
     "a mano pensando en calidad, comodidad y buen precio, y te atendemos " +
     "como a alguien de la familia, no como a un número.",
-  address: "[DIRECCIÓN DE LA TIENDA]",
-  city: "[CIUDAD]",
-  phone: "[TELÉFONO]",           // formato local, ej: 987 123 456
-  phoneIntl: "+34600000000",     // formato internacional para enlaces tel:/wa.me, SIN espacios
-  whatsapp: "+34600000000",      // mismo número en formato internacional para wa.me
+  address: "Plaza Jose Luis Núñez 11",
+  city: "Vilamartín de Valdeorras",
+  phone: "988300212",           // formato local, ej: 987 123 456
+  phoneIntl: "+34606319554",     // formato internacional para enlaces tel:/wa.me, SIN espacios
+  whatsapp: "+34606319554",      // mismo número en formato internacional para wa.me
   instagram: "https://instagram.com/[USUARIO_INSTAGRAM]",
   mapsUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d650.2126466642843!2d-7.062325868386267!3d42.415071296941434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3087325aed56c1%3A0x7ef9a92f13eca7e2!2sCALZADOS%20ADRI%C3%81N!5e1!3m2!1ses!2ses!4v1790591202420!5m2!1ses!2ses",
   //mapsUrl: "https://maps.google.com/?q=[DIRECCIÓN+DE+LA+TIENDA]",https://maps.app.goo.gl/68R9xtmzt9jNqjo86https://maps.app.goo.gl/68R9xtmzt9jNqjo86
   mapsEmbedUrl: "", // opcional: pega aquí una URL de iframe "Google Maps embed" si quieres mapa incrustado
   schedule: [
-    { day: "Lunes - Viernes", hours: "10:00 - 13:30 y 17:00 - 20:30" },
-    { day: "Sábado", hours: "10:00 - 14:00" },
+    { day: "Lunes - Viernes", hours: "10:00 - 13:30 y 17:00 - 20:00" },
+    { day: "Sábado", hours: "Cerrado" },
     { day: "Domingo", hours: "Cerrado" }
   ],
   // Cambia esto a false si de momento no quieres mostrar precios en ningún producto
