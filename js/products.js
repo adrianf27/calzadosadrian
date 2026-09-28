@@ -32,7 +32,7 @@ const STORE = {
   mapsUrl: "https://maps.app.goo.gl/68R9xtmzt9jNqjo86",
   //mapsUrl: "https://maps.google.com/?q=[DIRECCIÓN+DE+LA+TIENDA]",
   //mapsEmbedUrl: "", // opcional: pega aquí una URL de iframe "Google Maps embed" si quieres mapa incrustado
-  mapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d650.2126466642843!2d-7.062325868386267!3d42.415071296941434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3087325aed56c1%3A0x7ef9a92f13eca7e2!2sCALZADOS%20ADRI%C3%81N!5e1!3m2!1ses!2ses!4v1790591202420!5m2!1ses!2ses"
+  mapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d650.2126466642843!2d-7.062325868386267!3d42.415071296941434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3087325aed56c1%3A0x7ef9a92f13eca7e2!2sCALZADOS%20ADRI%C3%81N!5e1!3m2!1ses!2ses!4v1790591202420!5m2!1ses!2ses",
   schedule: [
     { day: "Lunes - Viernes", hours: "10:00 - 13:30 y 17:00 - 20:00" },
     { day: "Sábado", hours: "Cerrado" },
