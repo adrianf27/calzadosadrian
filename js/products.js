@@ -22,7 +22,7 @@ const STORE = {
     "Somos una zapatería de barrio con toda la vida. Elegimos cada modelo " +
     "a mano pensando en calidad, comodidad y buen precio, y te atendemos " +
     "como a alguien de la familia, no como a un número.",
-  address: "Plaza Jose Luis Núñez 11",
+  address: "Praza José Luis Núñez 11",
   city: "Vilamartín de Valdeorras",
   phone: "988300212",           // formato local, ej: 987 123 456
   phoneIntl: "+34606319554",     // formato internacional para enlaces tel:/wa.me, SIN espacios
