@@ -28,7 +28,8 @@ const STORE = {
   phoneIntl: "+34600000000",     // formato internacional para enlaces tel:/wa.me, SIN espacios
   whatsapp: "+34600000000",      // mismo número en formato internacional para wa.me
   instagram: "https://instagram.com/[USUARIO_INSTAGRAM]",
-  mapsUrl: "https://maps.google.com/?q=[DIRECCIÓN+DE+LA+TIENDA]",
+  mapsUrl: "https://maps.app.goo.gl/68R9xtmzt9jNqjo86",
+  //mapsUrl: "https://maps.google.com/?q=[DIRECCIÓN+DE+LA+TIENDA]",https://maps.app.goo.gl/68R9xtmzt9jNqjo86https://maps.app.goo.gl/68R9xtmzt9jNqjo86
   mapsEmbedUrl: "", // opcional: pega aquí una URL de iframe "Google Maps embed" si quieres mapa incrustado
   schedule: [
     { day: "Lunes - Viernes", hours: "10:00 - 13:30 y 17:00 - 20:30" },
